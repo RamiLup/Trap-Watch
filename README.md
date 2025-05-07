@@ -43,7 +43,7 @@ It holds two daughterboards: ESP32-S3 Xiao , VL6180X ToF sensor and has dimensio
 |--------------------------|------------|-----------------------|----------------------------------------|
 | **Deep sleep**           | 0.014 mA   | 24 h                  | 0.014 mA × 24 h = 0.336 mAh            |
 | **Active 6× wake-ups day** | 100 mA     | 6 × 0.7 s = 4.2 s      | 100 mA × (4.2 s ÷ 3600 s/h) = 0.117 mAh  |
-| **Total per day**        | —          | 24 h                  | **0.336 + 0.117 = 0.453 mAh/day**      |
+| **Total per day**        |           |                   | **0.336 + 0.117 = 0.453 mAh/day**      |
 
 Estimated runtime with a 100 mAh battery: 100 mAh / 0.453 mAh/day ≈ 221 days
 <br>
