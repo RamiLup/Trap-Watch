@@ -37,6 +37,7 @@ The PCB was designed to a minimal size, allowing it to fit onto the bait chamber
 It holds two daughterboards: ESP32-S3 Xiao , VL6180X ToF sensor and has dimensions of 44mm x 18mm.
 
 <br>
+
 # Battery Life Calculation
 
 | Mode                     | Current    | Time per Day          | mAh per Day                            |
