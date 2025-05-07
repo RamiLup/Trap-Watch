@@ -1,9 +1,9 @@
   <p style="text-align:center">
     
   # TrapWatch – Humane Wireless Trap Monitoring Module
-  <img src="https://github.com/user-attachments/assets/d666cad8-ba5b-4096-8a72-e5c776f0b977" alt="PCB" width="33%" />
-  <img src="https://github.com/user-attachments/assets/30e63c30-4d0c-4e8c-a247-698c5da19626" alt="PCB" width="33%" />
-  <img src="https://github.com/user-attachments/assets/2249205c-2852-4b6d-9d81-62562e1d01ec" alt="PCB" width="33%" />
+  <img src="https://github.com/user-attachments/assets/d666cad8-ba5b-4096-8a72-e5c776f0b977" alt="PCB" width="30%" />
+  <img src="https://github.com/user-attachments/assets/30e63c30-4d0c-4e8c-a247-698c5da19626" alt="PCB" width="30%" />
+  <img src="https://github.com/user-attachments/assets/2249205c-2852-4b6d-9d81-62562e1d01ec" alt="PCB" width="30%" />
   </p>
 
 ## 1. Introduction
